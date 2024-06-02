@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Productive-Clock",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made using HTML CSS & JS for time-management.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://suryansh-d.github.io/The-Schedule-Clock//",
+    "source": "https://github.com/Suryansh-D/The-Schedule-Clock"
+  },
+  {
+    "title": "Youtube Scraper",
+    "imageSrc": "projects/project.png",
+    "description": " It scrapes YT video comments and do analysis using NLP.",
+    "skills": ["Python", "Pinecone" , "API keys"],
+    "demo": "https://drive.google.com/drive/folders/1xVvkJ6cTBkS_OhO14wu4ZaxLqnv0a2KO?usp=sharing",
+    "source": "https://colab.research.google.com/drive/1NUELUEvCXdYrUXoaGfHpc7fDHk60CVH8?usp=sharing"
+  },
+  {
+    "title": "Pateint Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Team Project using Spring Framework",
+    "skills": ["Java", "SpringBoot", "MySQL"],
+    "demo": "https://github.com/sailingsam/Patient-Record-System-Backend",
+    "source": "https://github.com/sailingsam/Patient-Record-System-Backend"
+  }
+]

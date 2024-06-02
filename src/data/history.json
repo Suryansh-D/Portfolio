@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Digital Marketing Intern",
+    "organisation": "(Startup)",
+    "startDate": "March, 2024",
+    "endDate": "May , 2024",
+    "experiences": ["Worked on Content of YT&Insta", "Increased reach by 120%"],
+    "imageSrc": "history/digita-marketing-icon.png"
+  },
+  {
+    "role": "Video-Editor",
+    "organisation": "FreeLance",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on ShortForm & Long.", "70+ Projects Handled"],
+    "imageSrc": "history/video-edit.png"
+  },
+  {
+    "role": "Content Creator",
+    "organisation": "YouTube",
+    "startDate": "January, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Got 15k+ views from just 4 vdos",
+      "Curious in art of storytelling" , "Mastered SEO"
+    ],
+    "imageSrc": "history/you.png"
+  }
+]
